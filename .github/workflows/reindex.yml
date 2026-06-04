@@ -1,5 +1,8 @@
 name: Daily Mutual Fund Re-indexing
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run at 04:30 UTC daily (10:00 AM IST)
