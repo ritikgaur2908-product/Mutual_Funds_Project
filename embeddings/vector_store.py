@@ -27,7 +27,7 @@ logger = logging.getLogger("vector_store")
 
 # ── Configuration ───────────────────────────────────────────────────────────
 COLLECTION_NAME: str = "hdfc_mutual_fund_docs"
-DEFAULT_PERSIST_DIR: str = "./vector_db"
+DEFAULT_PERSIST_DIR: str = "./chroma_db"
 
 
 def _get_persist_dir() -> str:
