@@ -277,5 +277,6 @@ if __name__ == "__main__":
             print(f"  [{idx + 1}] ID: {res['id']}")
             print(f"      Score: {res['rrf_score']:.6f}")
             print(f"      Scheme: {res['metadata'].get('scheme_name')}")
-            print(f"      Preview: {res['page_content'][:120].strip().replace('\n', ' ')}...")
+            preview_text = res['page_content'][:120].strip().replace('\n', ' ')
+            print(f"      Preview: {preview_text}...")
         print("-" * 60)
