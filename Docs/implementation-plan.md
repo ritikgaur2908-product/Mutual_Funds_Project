@@ -404,7 +404,7 @@ Last updated from sources: <date of most recent chunk used>
 
 ## Phase 6: Daily Ingestion Scheduler
 
-**Goal**: Automate daily data refresh using a scheduled GitHub Actions workflow instead of in-process application loops. This makes hosting on stateless and serverless environments (like Vercel and Railway Free Tier) possible.
+**Goal**: Automate daily data refresh using a scheduled GitHub Actions workflow instead of in-process application loops. This makes hosting on stateless and serverless environments (like Vercel and Render Free Tier) possible.
 
 ### 6.1 GitHub Actions Workflow (`.github/workflows/reindex.yml`)
 
@@ -420,7 +420,7 @@ Last updated from sources: <date of most recent chunk used>
    d. Re-embed chunks and index into the vector store database (writing hdfc_mutual_fund_docs_meta.json and _embeddings.npy).
 2. Configure git credentials.
 3. Commit and push any changes in the chroma_db/ folder back to main.
-4. Platforms like Vercel and Railway detect the new commit on main and trigger stateless redeployment of the API server.
+4. Platforms like Vercel and Render detect the new commit on main and trigger stateless redeployment of the API server.
 ```
 
 ### 6.2 Deliverables
