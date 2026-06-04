@@ -8,6 +8,7 @@ Supports mock mode fallback for offline testing and development.
 
 import logging
 import os
+from typing import Optional
 from dotenv import load_dotenv
 import httpx
 
@@ -109,5 +110,4 @@ def call_groq_api(
             return res_json["choices"][0]["message"]["content"].strip()
 
 
-# Workaround typing import if needed
-from typing import Optional  # noqa: E402
+
