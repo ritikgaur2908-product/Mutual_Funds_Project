@@ -1,0 +1,29 @@
+# Environment variables (never commit)
+.env
+
+# ChromaDB vector store data
+# chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# Playwright browsers
+.playwright/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Testing & OS
+.pytest_cache/
+.DS_Store

@@ -1,0 +1,25 @@
+{
+  "scheme_name": "HDFC Silver ETF FoF Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+  "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+  "scraped_at": "2026-06-03T18:04:43.553670+00:00",
+  "success": true,
+  "cleaning_error": null,
+  "structured_data": {
+    "expense_ratio": "0.21%",
+    "exit_load": "1%, if redeemed within 15 days",
+    "minimum_sip": "₹100",
+    "minimum_lumpsum": "₹100",
+    "risk_rating": "Very High Risk",
+    "benchmark": "Domestic Price of Silver",
+    "aum": "₹9,37,048 Cr",
+    "nav": "₹43.48.",
+    "launch_date": "1999-12-10",
+    "amc_name": "HDFC Mutual Fund",
+    "amc_rank": "#2 in India",
+    "amc_incorporation_date": "1999-12-10",
+    "amc_email": "shareholders.relations@hdfcfund.com",
+    "amc_website": "http://www.hdfcfund.com",
+    "amc_address": "HDFC House, 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "amc_registrar": "Cams"
+  }
+}

@@ -1,0 +1,366 @@
+[Invest in StocksInvest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.](/stocks)
+
+[IntradayMonitor top intraday performers in real time](/stocks/intraday)[ETF ScreenerGet the best of Mutual Funds and flexibility of Stocks](/etfs)[IPOTrack upcoming and ongoing IPOs](/ipo)[MTFsBuy now, pay later](/stocks/mtf)
+
+[Stock ScreenerFilter based on RSI, PE ratio and more](/stocks/filter)[Stock EventsDividends, bonus, buybacks and more](/stocks/calendar)[Demat AccountBegin your stock market journey](/open-demat-account)[Share Market TodayLive news updates from stock market](/share-market-today)
+
+[Trade in Futures & OptionsTrade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space](/futures-and-options)
+
+[IndicesTrack markets across the globe](/indices)[TerminalTrack charts, orders, positions, watchlists in one place](/charts)[Option chainAnalyse chains, view payoffs, create baskets](/options/nifty)
+
+[PledgeGet extra balance for trading](/available-for-pledge)[CommoditiesTrade in Crude Oil, Gold, Silver and more](/commodities)[API tradingSet up and execute trades through our API](/trade-api)
+
+[Invest in Mutual FundsInvest in direct mutual funds at zero charges via lump sump investments or SIPs](/mutual-funds)
+
+[Mutual Fund HousesKnow about AMCs, funds, fund managers](/mutual-funds/amc)[NFO’sTrack all active NFOs in one place](/nfo)[Mutual Funds by GrowwMutual funds by Groww designed for your investment goals](/mutual-funds/amc/groww-mutual-funds)[Start SIPBuild long-term wealth through disciplined monthly investing.](/mutual-funds/start-sip)
+
+[Mutual Funds screenerFilter funds based on risk, fund size and more](/mutual-funds/filter)[Track FundsImport funds and track all investments in a single place](/track)[Compare Funds](/mutual-funds/compare)
+
+[SIP calculatorEstimate returns on a SIP](/calculators/sip-calculator)[Brokerage calculatorEstimate charges for your trade/investment](/calculators/brokerage-calculator)[Margin calculatorEstimate balance needed to buy/sell a stock](/calculators/margin-calculator)
+
+[SWP calculatorReturns on your systematic withdrawal plan](/calculators/swp-calculator)[PricingBrokerage and charges on Groww](/pricing)[Blog](/blog)
+
+| Over the past | Total investment | Would've become | Historic returns | Returns |
+| --- | --- | --- | --- | --- |
+| 1 year | ₹60,000 | ₹57,310 |  | -4.48 % |
+| 3 years | ₹1,80,000 | ₹1,87,531 |  | + 4.18 % |
+| 5 years | ₹3,00,000 | ₹3,57,744 |  | + 19.25 % |
+| 10 years | ₹6,00,000 | ₹10,75,753 |  | + 79.29 % |
+
+| Name | Sector | Instruments | Assets |
+| --- | --- | --- | --- |
+| HDFC Bank Ltd. | Financial | Equity | 10.74% |
+| Reliance Industries Ltd. | Energy | Equity | 8.79% |
+| ICICI Bank Ltd. | Financial | Equity | 8.22% |
+| Bharti Airtel Ltd. | Communication | Equity | 5.27% |
+| Larsen & Toubro Ltd. | Construction | Equity | 4.29% |
+| State Bank of India | Financial | Equity | 4.03% |
+| Infosys Ltd. | Technology | Equity | 3.77% |
+| Axis Bank Ltd. | Financial | Equity | 3.31% |
+| ITC Ltd. | Consumer Staples | Equity | 2.76% |
+| Kotak Mahindra Bank Ltd. | Financial | Equity | 2.57% |
+| Mahindra & Mahindra Ltd. | Automobile | Equity | 2.52% |
+| Tata Consultancy Services Ltd. | Technology | Equity | 2.30% |
+| Bajaj Finance Ltd. | Financial | Equity | 2.28% |
+| Hindustan Unilever Ltd. | Consumer Staples | Equity | 1.82% |
+| Sun Pharmaceutical Industries Ltd. | Healthcare | Equity | 1.74% |
+| NTPC Ltd. | Energy | Equity | 1.72% |
+| Titan Company Ltd. | Consumer Discretionary | Equity | 1.65% |
+| Eternal Ltd. | Services | Equity | 1.62% |
+| Maruti Suzuki India Ltd. | Automobile | Equity | 1.59% |
+| Tata Steel Ltd. | Metals & Mining | Equity | 1.59% |
+| Bharat Electronics Ltd. | Capital Goods | Equity | 1.41% |
+| Hindalco Industries Ltd. | Metals & Mining | Equity | 1.37% |
+| Power Grid Corporation Of India Ltd. | Energy | Equity | 1.31% |
+| Ultratech Cement Ltd. | Construction | Equity | 1.25% |
+| Shriram Finance Ltd | Financial | Equity | 1.19% |
+| HCL Technologies Ltd. | Technology | Equity | 1.15% |
+| Adani Ports and Special Economic Zone Ltd. | Services | Equity | 1.11% |
+| JSW Steel Ltd. | Metals & Mining | Equity | 1.08% |
+| Oil And Natural Gas Corporation Ltd. | Energy | Equity | 1.06% |
+| Asian Paints Ltd. | Chemicals | Equity | 1.01% |
+| Bajaj Auto Ltd. | Automobile | Equity | 1.01% |
+| Coal India Ltd. | Energy | Equity | 0.99% |
+| Grasim Industries Ltd. | Construction | Equity | 0.97% |
+| Nestle India Ltd. | Consumer Staples | Equity | 0.95% |
+| Bajaj Finserv Ltd. | Financial | Equity | 0.92% |
+| Eicher Motors Ltd. | Automobile | Equity | 0.89% |
+| Interglobe Aviation Ltd. | Services | Equity | 0.88% |
+| Tech Mahindra Ltd. | Technology | Equity | 0.85% |
+| Trent Ltd. | Services | Equity | 0.84% |
+| JIO Financial Services Ltd. | Financial | Equity | 0.74% |
+| SBI Life Insurance Company Ltd. | Insurance | Equity | 0.74% |
+| Dr. Reddy's Laboratories Ltd. | Healthcare | Equity | 0.73% |
+| Apollo Hospitals Enterprise Ltd. | Healthcare | Equity | 0.71% |
+| Tata Consumer Products Ltd. | Consumer Staples | Equity | 0.68% |
+| Max Healthcare Institute Ltd. | Healthcare | Equity | 0.67% |
+| Cipla Ltd. | Healthcare | Equity | 0.67% |
+| Tata Motors Passenger Vehicles Ltd. | Automobile | Equity | 0.65% |
+| Adani Enterprises Ltd. | Services | Equity | 0.63% |
+| HDFC Life Insurance Co Ltd. | Insurance | Equity | 0.57% |
+| Wipro Ltd. | Technology | Equity | 0.52% |
+
+| Name | 3Y | 5Y | 10Y | All |
+| --- | --- | --- | --- | --- |
+| Fund returns | +9.1% | +9.5% | +12.1% | +11.8% |
+| Category average ( Equity Large Cap ) | +15.1% | +15.0% | +13.2% | -- |
+| Rank ( Equity Large Cap ) | 68 | 47 | 23 | -- |
+
+### Exit load, stamp duty and tax
+
+Exit load of 0.25% if redeemed within 3 days
+
+#### Stamp duty on investment: 0.005% (from July 1st, 2020)
+
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding ₹1.25 lakh in a financial year are taxed at 12.5%.
+
+|  | Name | 1Y | 3Y | Fund Size(Cr) |
+| --- | --- | --- | --- | --- |
+|  | Invesco India Largecap Fund Direct Growth | +0.87% | +15.34% | 1,721.89 |
+|  | WhiteOak Capital Large Cap Fund Direct Growth | -0.42% | +14.74% | 1,163.57 |
+|  | Nippon India Large Cap Fund Direct Growth | -1.81% | +14.52% | 51,690.28 |
+|  | ICICI Prudential Large Cap Fund Direct Growth | -2.98% | +14.09% | 75,650.43 |
+|  | DSP Large Cap Fund Direct Growth | -4.96% | +13.66% | 7,192.01 |
+| Compare |  |  |  |  |
+
+Mr. Agarwal is a B.Com. and Chartered Accountant
+
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.
+
+[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
+
+[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
+
+[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
+
+[HDFC BSE Sensex Index Fund Direct Growth](/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth)
+
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
+
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
+
+[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+
+[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+
+[HDFC NIFTY 50 ETF IDCW](/mutual-funds/hdfc-nifty-etf)
+
+[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+
+[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+
+[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
+
+[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
+
+[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
+
+[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
+
+[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
+
+[HDFC BSE Sensex ETF](/mutual-funds/hdfc-bse-sensex-etf)
+
+[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
+
+[HDFC NIFTY Realty Index Fund Direct Growth](/mutual-funds/hdfc-nifty-realty-index-fund-direct-growth)
+
+[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
+
+[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
+
+[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
+
+[HDFC Nifty India Digital Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-digital-index-fund-direct-growth)
+
+[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
+
+[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+
+[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
+
+[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
+
+CA (ICAI, INDIA), B.Com (University of Mumbai)
+
+Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.
+
+[HDFC Gold ETF Fund of Fund Direct Plan Growth](/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth)
+
+[HDFC Balanced Advantage Fund Direct Growth](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)
+
+[HDFC NIFTY 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-50-index-fund-direct-growth)
+
+[HDFC BSE Sensex Index Fund Direct Growth](/mutual-funds/hdfc-bse-sensex-index-fund-direct-growth)
+
+[HDFC Equity Savings Direct Plan Growth](/mutual-funds/hdfc-equity-savings-fund-direct-growth)
+
+[HDFC Multi Asset Allocation Fund Direct Growth](/mutual-funds/hdfc-multi-asset-allocation-fund-direct-growth)
+
+[HDFC Arbitrage Fund Direct Growth](/mutual-funds/hdfc-arbitrage-fund-direct-growth)
+
+[HDFC Retirement Savings Fund Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-equity-plan-direct-growth)
+
+[HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth](/mutual-funds/hdfc-retirement-savings-fund-hybrid-debt-plan-direct-growth)
+
+[HDFC NIFTY50 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty50-equal-weight-index-fund-direct-growth)
+
+[HDFC Developed World Overseas Equity Passive FoF Direct Growth](/mutual-funds/hdfc-developed-world-overseas-equity-passive-fof-direct-growth)
+
+[HDFC NIFTY Next 50 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-next-50-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-index-fund-direct-growth)
+
+[HDFC NIFTY 100 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-100-equal-weight-index-fund-direct-growth)
+
+[HDFC Silver ETF FoF Direct Growth](/mutual-funds/hdfc-silver-etf-fof-direct-growth)
+
+[HDFC NIFTY Midcap 150 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-midcap-150-index-fund-direct-growth)
+
+[HDFC Nifty Smallcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-smallcap-250-index-fund-direct-growth)
+
+[HDFC BSE 500 Index Fund Direct Growth](/mutual-funds/hdfc-bse-500-index-fund-direct-growth)
+
+[HDFC NIFTY200 Momentum 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty200-momentum-30-index-fund-direct-growth)
+
+[HDFC NIFTY Realty Index Fund Direct Growth](/mutual-funds/hdfc-nifty-realty-index-fund-direct-growth)
+
+[HDFC NIFTY100 Low Volatility 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-low-volatility-30-index-fund-direct-growth)
+
+[HDFC Nifty500 Multicap 50:25:25 Index Fund Direct Growth](/mutual-funds/hdfc-nifty500-multicap-50%3A25%3A25-index-fund-direct-growth)
+
+[HDFC Nifty LargeMidcap 250 Index Fund Direct Growth](/mutual-funds/hdfc-nifty-largemidcap-250-index-fund-direct-growth)
+
+[HDFC Nifty India Digital Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-digital-index-fund-direct-growth)
+
+[HDFC Nifty100 Quality 30 Index Fund Direct Growth](/mutual-funds/hdfc-nifty100-quality-30-index-fund-direct-growth)
+
+[HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth](/mutual-funds/hdfc-nifty-top-20-equal-weight-index-fund-direct-growth)
+
+[HDFC BSE India Sector Leaders Index Fund Direct Growth](/mutual-funds/hdfc-bse-india-sector-leaders-index-fund-direct-growth)
+
+[HDFC Nifty India Consumption Index Fund Direct Growth](/mutual-funds/hdfc-nifty-india-consumption-index-fund-direct-growth)
+
+### About HDFC NIFTY 50 Index Fund Direct Growth
+
+HDFC NIFTY 50 Index Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 1999-12-10. Arun Agarwal is the Current Fund Manager of HDFC NIFTY 50 Index Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,37,048 Cr and the Latest NAV as of 2026-06-03 is ₹227.86. The HDFC NIFTY 50 Index Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 0.25% if redeemed within 3 days ;
+
+The Scheme seeks to generate returns that are commensurate with the performance of the NIFTY 50 Index, subject to tracking errors.
+
+Fund benchmarkNIFTY 50 Total Return Index
+
+[Scheme Information Document(SID)](https://www.hdfcfund.com)
+
+[HDFC Mutual Fund](/mutual-funds/amc/hdfc-mutual-funds)
+
+Rank (total assets)#2 in India
+
+Date of Incorporation 1999-12-10
+
+E-mail[[email protected]](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shareholders.relations@hdfcfund.com&su=Hello&shva=1)
+
+Website<http://www.hdfcfund.com>
+
+Address"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+
+Registrar & Transfer AgentCams
+
+Email[[email protected]](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=enq_h@camsonline.com&su=Hello&shva=1)
+
+Website[www.camsonline.com](https://www.camsonline.com)
+
+Address 7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+
+Vaishnavi Tech Park, South Tower, 3rd FloorSarjapur Main Road, Bellandur, Bengaluru – 560103Karnataka
+
+[About Us](/about-us)[Pricing](/pricing)[Blog](/blog)[Media & Press](/press)[Careers](/careers)[Help & Support](/help)[Trust & Safety](/trust-and-safety)[Investor Relations](/investor-relations)
+
+[Stocks](/stocks)[F&O](/futures-and-options)[MTF](/stocks/mtf)[ETF](/invest-in-etfs)[IPO](/ipo)[Mutual Funds](/mutual-funds)[Commodities](/commodities)[Groww Terminal](/charts)[915 Terminal](https://915.groww.in/?utm_source=groww)[Stock Screens](/stocks/screens)[Algo Trading](/trade-api)[Groww Charts](/groww-charts)[Groww Digest](/digest)[Demat Account](/open-demat-account)[Groww AMC](/mutual-funds/amc)[PMS](/pms)
+
+© 2016-2026 Groww. All rights reserved.Version: 7.7.1
+
+[Top Gainers Stocks](/markets/top-gainers)[52 Weeks High Stocks](/markets/52-week-high)[Tata Motors](/stocks/tata-motors-ltd)[NHPC](/stocks/nhpc-ltd)[ITC](/stocks/itc-ltd)[Wipro](/stocks/wipro-ltd)[BSE](/stocks/bse-ltd)[NTPC](/stocks/ntpc-green-energy-ltd)
+
+[Top Losers Stocks](/markets/top-losers)[52 Weeks Low Stocks](/markets/52-week-low)[IREDA](/stocks/indian-renewable-energy-development-agency-ltd-1569588972606)[State Bank of India](/stocks/state-bank-of-india)[Adani Power](/stocks/adani-power-ltd)[CDSL](/stocks/central-depository-services-india-ltd)[Cochin Shipyard](/stocks/cochin-shipyard-ltd)[SJVN](/stocks/sjvn-ltd)
+
+[Most Traded Stocks](/stocks/most-bought-stocks-on-groww)[Stocks Market Calender](/stocks/calendar)[Tata Steel](/stocks/tata-steel-ltd)[Tata Power](/stocks/tata-power-company-ltd)[Bharat Heavy Electricals](/stocks/bharat-heavy-electricals-ltd)[Indian Oil Corporation](/stocks/indian-oil-corporation-ltd)[HUDCO](/stocks/housing-urban-development-corporation-ltd)[SAIL](/stocks/steel-authority-of-india-ltd)
+
+[Stocks Feed](/stock-feed)[Suzlon Energy](/stocks/suzlon-energy-ltd)[Zomato (Eternal)](/stocks/zomato-ltd)[Yes Bank](/stocks/yes-bank-ltd)[Infosys](/stocks/infosys-ltd)[NBCC](/stocks/nbcc-india-ltd)[IRCTC](/stocks/indian-railway-catering-tourism-corpn-ltd)[Share Market Live Update](/share-market-today)
+
+[FII DII Activity](/fii-dii-data)[IRFC](/stocks/indian-railway-finance-corporation-ltd)[Bharat Electronics](/stocks/bharat-electronics-ltd)[HDFC Bank](/stocks/hdfc-bank-ltd)[Vedanta](/stocks/vedanta-ltd)[Reliance Power](/stocks/reliance-power-ltd)[Jaiprakash Power Ventures](/stocks/jaiprakash-power-ventures-ltd)[Stocks Sectors](/stocks/sectors)
+
+[NIFTY 50](/indices/nifty)[NIFTY Midcap 100](/indices/nifty-midcap)[NIFTY 100](/indices/nifty-218500)[US Tech 100](/indices/global-indices/nasdaq)[NIFTY Realty](/indices/nifty-realty)[Nikkei index](/indices/global-indices/nikkei)
+
+[SENSEX](/indices/sp-bse-sensex)[NIFTY Smallcap 100](/indices/nifty-smallcap-100)[NIFTY Auto](/indices/nifty-auto)[Dow Jones Futures](/indices/global-indices/dow-jones-futures)[NIFTY PSU Bank](/indices/nifty-psu-bank)[NIFTY FMCG](/indices/nifty-fmcg)
+
+[NIFTY BANK](/indices/nifty-bank)[NIFTY MIDCAP 150](/indices/nifty-midcap-150)[KOSPI Index](/indices/global-indices/kospi)[Dow Jones Index](/indices/global-indices/dow-jones)[Gift Nifty](/indices/global-indices/sgx-nifty)[BSE BANKEX](/indices/sp-bse-bankex)
+
+[India VIX](/indices/india-vix)[NIFTY Pharma](/indices/nifty-pharma)[HANG SENG Index](/indices/global-indices/hang-seng)[BSE 100](/indices/bse-100)[FTSE 100 Index](/indices/global-indices/ftse)[S&P 500](/indices/global-indices/sp-500)
+
+[NIFTY NEXT 50](/indices/nifty-next)[NIFTY Metal](/indices/nifty-metal)[DAX Index](/indices/global-indices/dax)[NIFTY Fin Service](/indices/nifty-financial-services)[CAC Index](/indices/global-indices/cac)[Nifty Pvt Bank](/indices/nifty-pvt-bank)
+
+[NIFTY Bank Options](/options/nifty-bank)[SBI Options](/options/state-bank-of-india)[Bajaj Finance Options](/options/bajaj-finance-ltd)[Axis Bank Options](/options/axis-bank-ltd)[Hindustan Unilever Options](/options/hindustan-unilever-ltd)[NIFTY Bank Futures](/futures/nifty-bank)[Finnifty Futures](/futures/nifty-financial-services)[ITC Futures](/futures/itc-ltd)[ICICI Bank Futures](/futures/icici-bank-ltd)[Biocon Futures](/futures/biocon-ltd)[Indusind Bank Futures](/futures/indusind-bank-ltd)[Crude Oil Mini Future Price](/commodities/futures/mcx_crudeoilm)[Gold Petal Future Price](/commodities/futures/mcx_goldpetal)[Silver Micro Future Price](/commodities/futures/mcx_silvermic)[Nickel Future Price](/commodities/futures/mcx_nickel)[Natural Gas Mini MCX Option Chain](/commodities/options/mcx_natgasmini)[Copper MCX Option Chain](/commodities/options/mcx_copper)
+
+[NIFTY 50 Options](/options/nifty)[HDFC Bank Options](/options/hdfc-bank-ltd)[Wipro Options](/options/wipro-ltd)[DLF Options](/options/dlf-ltd)[REC Options](/options/rec-ltd)[Yes Bank Futures](/futures/yes-bank-ltd)[Zomato Futures](/futures/zomato-ltd)[Ashok Leyland Futures](/futures/ashok-leyland-ltd)[HDFC Bank Futures](/futures/hdfc-bank-ltd)[UPL Futures](/futures/upl-ltd)[Adani Enterprises Futures](/futures/adani-enterprises-ltd)[Gold Future Price](/commodities/futures/mcx_gold)[Natural Gas Future Price](/commodities/futures/mcx_naturalgas)[Zinc Future Price](/commodities/futures/mcx_zinc)[Gold MCX Option Chain](/commodities/options/mcx_gold)[Gold Mini MCX Option Chain](/commodities/options/mcx_goldm)[Commodities Expiry Calendar](/commodities/calendar)
+
+[Bse Sensex Options](/options/sp-bse-sensex)[Tata Steel Options](/options/tata-steel-ltd)[NTPC Options](/options/ntpc-ltd)[Bajaj Auto Options](/options/bajaj-auto-ltd)[Indusind Bank Options](/options/indusind-bank-ltd)[Tata Motors Futures](/futures/tata-motors-ltd)[Infosys Futures](/futures/infosys-ltd)[Asian Paints Futures](/futures/asian-paints-ltd)[Lupin Futures](/futures/lupin-ltd)[Cipla Futures](/futures/cipla-ltd)[IDFC First Bank Futures](/futures/idfc-bank-ltd)[Gold Mini Future Price](/commodities/futures/mcx_goldm)[Natural Gas Mini Future Price](/commodities/futures/mcx_natgasmini)[Copper Future Price](/commodities/futures/mcx_copper)[Crude Oil MCX Option Chain](/commodities/options/mcx_crudeoil)[Silver MCX Option Chain](/commodities/options/mcx_silver)
+
+[Finnifty Options](/options/nifty-financial-services)[Infosys Options](/options/infosys-ltd)[Asian Paints Options](/options/asian-paints-ltd)[Coal India Options](/options/coal-india-ltd)[Ashok Leyland Options](/options/ashok-leyland-ltd)[Tata Steel Futures](/futures/tata-steel-ltd)[BSE Sensex Futures](/futures/sp-bse-sensex)[Wipro Futures](/futures/wipro-ltd)[DLF Futures](/futures/dlf-ltd)[Bajaj Finance Futures](/futures/bajaj-finance-ltd)[Piramal Enterprises Futures](/futures/piramal-enterprises-ltd)[Gold Ten Future Price](/commodities/futures/mcx_goldten)[Silver Future Price](/commodities/futures/mcx_silver)[Aluminium Future Price](/commodities/futures/mcx_aluminium)[Crude Oil Mini MCX Option Chain](/commodities/options/mcx_crudeoilm)[Silver Mini MCX Option Chain](/commodities/options/mcx_silverm)
+
+[Tata Motors Options](/options/tata-motors-ltd)[ITC Options](/options/itc-ltd)[ICICI Bank Options](/options/icici-bank-ltd)[Adani Enterprises Options](/options/adani-enterprises-ltd)[NIFTY 50 Futures](/futures/nifty)[Coal India Futures](/futures/coal-india-ltd)[Axis Bank Futures](/futures/axis-bank-ltd)[Vedanta Futures](/futures/vedanta-ltd)[Reliance Industries Futures](/futures/reliance-industries-ltd)[Hindustan Copper Futures](/futures/hindustan-copper-ltd)[Crude Oil Future Price](/commodities/futures/mcx_crudeoil)[Gold Guinea Future Price](/commodities/futures/mcx_goldguinea)[Silver Mini Future Price](/commodities/futures/mcx_silverm)[Electricity Future Price](/commodities/futures/mcx_elecdmbl)[Natural Gas MCX Option Chain](/commodities/options/mcx_naturalgas)[Zinc MCX Option Chain](/commodities/options/mcx_zinc)
+
+[MF Screener](/mutual-funds/filter)[Debt Mutual Funds](/mutual-funds/debt-funds)[Best Multicap Mutual funds](/mutual-funds/category/best-multi-cap-mutual-funds)[Best Contra Mutual funds](/mutual-funds/category/best-contra-mutual-funds)[Best Conservative Hybrid Mutual funds](/mutual-funds/category/best-conservative-hybrid-mutual-funds)[SBI Contra Fund](/mutual-funds/sbi-contra-fund-direct-growth)[Nippon India Nifty 500 Momentum 50 Index Fund](/mutual-funds/nippon-india-nifty-500-momentum-50-index-fund-direct-growth)[HDFC Balanced Advantage Fund](/mutual-funds/hdfc-balanced-advantage-fund-direct-growth)[Quant Mid Cap Fund](/mutual-funds/quant-mid-cap-fund-direct-growth)[Bank of India Small Cap Fund](/mutual-funds/bank-of-india-small-cap-fund-direct-growth)[Quant Multi Asset Fund](/mutual-funds/quant-multi-asset-fund-direct-growth)[Nippon India](/mutual-funds/amc/nippon-india-mutual-funds)[TATA](/mutual-funds/amc/tata-mutual-funds)[Bandhan](/mutual-funds/amc/bandhan-mutual-funds)[Edelweiss](/mutual-funds/amc/edelweiss-mutual-funds)[HSBC](/mutual-funds/amc/hsbc-mutual-funds)[Union](/mutual-funds/amc/union-mutual-funds)[Quantum](/mutual-funds/amc/quantum-mutual-funds)[Shriram](/mutual-funds/amc/shriram-mutual-funds)
+
+[Compare Mutual Funds](/mutual-funds/compare)[Best Debt Mutual funds](/mutual-funds/category/best-debt-mutual-funds)[Best Large Cap Mutual funds](/mutual-funds/category/best-large-cap-mutual-funds)[Best Value Oriented Mutual funds](/mutual-funds/category/best-value-oriented-mutual-funds)[Parag Parikh Flexi Cap Fund](/mutual-funds/parag-parikh-long-term-value-fund-direct-growth)[HDFC Mid Cap Opportunities Fund](/mutual-funds/hdfc-mid-cap-opportunities-fund-direct-growth)[Motilal Oswal Nifty India Defence Index Fund](/mutual-funds/motilal-oswal-nifty-india-defence-index-fund-direct-growth)[ICICI Prudential India Opportunities Fund](/mutual-funds/icici-prudential-india-opportunities-fund-direct-growth)[Kotak Small Cap Fund](/mutual-funds/kotak-midcap-fund-direct-growth)[Canara Robeco Bluechip Equity Fund](/mutual-funds/canara-robeco-large-cap-fund-direct-growth)[GrowwMF](/mutual-funds/amc/groww-mutual-funds)[Motilal Oswal](/mutual-funds/amc/motilal-oswal-mutual-funds)[Aditya Birla](/mutual-funds/amc/aditya-birla-sun-life-mutual-funds)[Axis](/mutual-funds/amc/axis-mutual-funds)[Bank of India](/mutual-funds/amc/bank-of-india-mutual-funds)[Bajaj Finserv](/mutual-funds/amc/bajaj-finserv-mutual-funds)[Helios](/mutual-funds/amc/helios-mutual-funds)[ITI](/mutual-funds/amc/iti-mutual-funds)[Trust](/mutual-funds/amc/trust-mutual-funds)
+
+[MF Knowledge Centre](/blog/category/mutual-funds)[Best Equity Mutual funds](/mutual-funds/category/best-equity-mutual-funds)[Best Small Cap Mutual funds](/mutual-funds/category/best-small-cap-mutual-funds)[Best Arbitrage Mutual funds](/mutual-funds/category/best-arbitrage-mutual-funds)[Motilal Oswal Midcap Fund](/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth)[SBI Small Cap Fund](/mutual-funds/sbi-small-midcap-fund-direct-growth)[HDFC Small Cap Fund](/mutual-funds/hdfc-small-cap-fund-direct-growth)[Kotak Multicap Fund](/mutual-funds/kotak-multicap-fund-direct-growth)[ICICI Prudential Infrastructure Fund](/mutual-funds/icici-prudential-infrastructure-fund-direct-growth)[Bandhan Nifty Alpha 50 Index Fund](/mutual-funds/bandhan-nifty-alpha-50-index-fund-direct-growth)[SBI](/mutual-funds/amc/sbi-mutual-funds)[Quant](/mutual-funds/amc/quant-mutual-funds)[Mirae Asset](/mutual-funds/amc/mirae-asset-mutual-funds)[DSP](/mutual-funds/amc/dsp-mutual-funds)[Baroda BNP Paribas](/mutual-funds/amc/baroda-bnp-paribas-mutual-funds)[Mahindra Manulife](/mutual-funds/amc/mahindra-manulife-mutual-funds)[Sundaram](/mutual-funds/amc/sundaram-mutual-funds)[Samco](/mutual-funds/amc/samco-mutual-funds)[Taurus](/mutual-funds/amc/taurus-mutual-funds)
+
+[Mutual Fund Houses](/mutual-funds/amc)[Best Hybrid Mutual funds](/mutual-funds/category/best-hybrid-mutual-funds)[Best ELSS Mutual funds](/mutual-funds/category/best-elss-mutual-funds)[Best Dividend Yield Mutual funds](/mutual-funds/category/best-dividend-yield-mutual-funds)[Nippon India Small Cap Fund](/mutual-funds/nippon-india-small-cap-fund-direct-growth)[HDFC Flexi Cap Fund](/mutual-funds/hdfc-equity-fund-direct-growth)[Tata Small Cap Fund](/mutual-funds/tata-small-cap-fund-direct-growth)[Tata Ethical Fund](/mutual-funds/tata-ethical-fund-direct-growth)[Mirae Asset ELSS Tax Saver Fund](/mutual-funds/mirae-asset-elss-tax-saver-fund-direct-growth)[Quant Infrastructure Fund](/mutual-funds/quant-infrastructure-fund-direct-growth)[HDFC](/mutual-funds/amc/hdfc-mutual-funds)[PPFAS](/mutual-funds/amc/ppfas-mutual-funds)[UTI](/mutual-funds/amc/uti-mutual-funds)[Kotak Mahindra](/mutual-funds/amc/kotak-mahindra-mutual-funds)[Zerodha](/mutual-funds/amc/zerodha-mutual-funds)[Invesco](/mutual-funds/amc/invesco-mutual-funds)[Navi](/mutual-funds/amc/navi-mutual-funds)[PGIM](/mutual-funds/amc/pgim-india-mutual-funds)
+
+[Mutual Funds Categories](/mutual-funds/category)[Best MidCap Mutual funds](/mutual-funds/category/best-mid-cap-mutual-funds)[Best Sectoral Mutual funds](/mutual-funds/category/best-sectoral-mutual-funds)[Best Aggressive Hybrid Mutual funds](/mutual-funds/category/best-aggressive-hybrid-mutual-funds)[Quant Small Cap Fund](/mutual-funds/quant-small-cap-fund-direct-plan-growth)[SBI Magnum Children's Benefit Fund](/mutual-funds/sbi-magnum-children-benefit-plan-direct)[UTI Nifty 50 Index Fund](/mutual-funds/uti-nifty-fund-direct-growth)[JM Flexicap Fund](/mutual-funds/jm-multi-strategy-fund-direct-growth)[HSBC Small Cap Fund](/mutual-funds/hsbc-small-cap-fund-direct-growth)[Franklin India Multi Cap Fund](/mutual-funds/franklin-india-multi-cap-fund-direct-growth)[ICICI Prudential](/mutual-funds/amc/icici-prudential-mutual-funds)[LIC](/mutual-funds/amc/lic-mutual-funds)[Canara Robeco](/mutual-funds/amc/canara-robeco-mutual-funds)[Whiteoak](/mutual-funds/amc/whiteoak-capital-mutual-funds)[Franklin Templeton](/mutual-funds/amc/franklin-templeton-mutual-funds)[NJ](/mutual-funds/amc/nj-mutual-funds)[JM](/mutual-funds/amc/jm-financial-mutual-funds)[360 One](/mutual-funds/amc/360-one-mutual-funds)
+
+[International](/etfs/international)[Silver](/etfs/silver)[Midcap](/etfs/midcap)[Liquid](/etfs/liquid)
+
+[Debt](/etfs/debt)[Index](/etfs/indices)[Bank Nifty](/etfs/bank-nifty)[Nifty IT](/etfs/nifty-it)
+
+[Equity](/etfs/equity)[Nifty 50](/etfs/nifty-50)[Nifty Metal](/etfs/nifty-metal)[Nifty Auto](/etfs/nifty-auto)
+
+[Commodity](/etfs/commodities)[Nifty Next 50](/etfs/nifty-next-50)[Healthcare](/etfs/healthcare)[Groww](/etfs/groww-etfs)
+
+[Gold](/etfs/gold)[Sensex](/etfs/sensex)[Defence](/etfs/defence)
+
+[Groww Arbitrage Fund](/mutual-funds/groww-arbitrage-fund-direct-growth)[Groww ELSS Tax Saver Fund](/mutual-funds/groww-elss-tax-saver-fund-direct-growth)[Groww Banking & Financial Services Fund](/mutual-funds/groww-banking-financial-services-fund-direct-growth)[Groww Gold ETF FOF](/mutual-funds/groww-gold-etf-fof-direct-growth)[Groww Gold ETF](/etfs/groww-gold-etf)
+
+[Groww Short Duration Fund](/mutual-funds/groww-short-duration-fund-direct-growth)[Groww Aggressive Hybrid Fund](/mutual-funds/groww-aggressive-hybrid-fund-direct-growth)[Groww Nifty Smallcap 250 Index Fund](/mutual-funds/groww-nifty-smallcap-250-index-fund-direct-growth)[Groww Multicap Fund](/mutual-funds/groww-multicap-fund-direct-growth)[Groww Nifty India Defence ETF](/etfs/groww-nifty-india-defence-etf)
+
+[Groww Liquid Fund](/mutual-funds/groww-liquid-fund-direct-growth)[Groww Dynamic Bond Fund](/mutual-funds/groww-dynamic-bond-fund-direct-growth)[Groww Nifty Non Cyclical Consumer Index Fund](/mutual-funds/groww-nifty-non-cyclical-consumer-index-fund-direct-growth)[Groww Nifty India Railways PSU Index Fund](/mutual-funds/groww-nifty-india-railways-psu-index-fund-direct-growth)[Groww Nifty India Railways ETF](/etfs/groww-nifty-india-railways-psu-etf)
+
+[Groww Large Cap Fund](/mutual-funds/groww-large-cap-fund-direct-growth)[Groww Overnight Fund](/mutual-funds/groww-overnight-fund-direct-growth)[Groww Nifty EV & New Age Automotive ETF FoF](/mutual-funds/groww-nifty-ev-new-age-automotive-etf-fof-direct-growth)[Groww Nifty 200 ETF FoF](/mutual-funds/groww-nifty-200-etf-fof-direct-growth)
+
+[Groww Value Fund](/mutual-funds/groww-value-fund-direct-growth)[Groww Nifty Total Market Index Fund](/mutual-funds/groww-nifty-total-market-index-fund-direct-growth)[Groww Nifty India Defence ETF FoF](/mutual-funds/groww-nifty-india-defence-etf-fof-direct-growth)[Groww Silver ETF](/etfs/groww-silver-etf)
+
+[SIP Calculator](/calculators/sip-calculator)[Brokerage Calculator](/calculators/brokerage-calculator)[RD Calculator](/calculators/rd-calculator)[HRA Calculator](/calculators/hra-calculator)[Home Loan EMI Calculator](/calculators/home-loan-emi-calculator)
+
+[Lumpsum Calculator](/calculators/lumpsum-calculator)[Margin Calculator](/calculators/margin-calculator)[FD Calculator](/calculators/fd-calculator)[Salary Calculator](/calculators/salary-calculator)[ROI Calculator](/calculators/roi-calculator)
+
+[SWP Calculator](/calculators/swp-calculator)[Stock Average Calculator](/calculators/stock-average-calculator)[EPF Calculator](/calculators/epf-calculator)[TDS Calculator](/calculators/tds-calculator)
+
+[MF Calculator](/calculators/mutual-fund-returns-calculator)[SSY Calculator](/calculators/sukanya-samriddhi-yojana-calculator)[Income Tax Calculator](/calculators/income-tax-calculator)[EMI Calculator](/calculators/emi-calculator)
+
+[Step-Up SIP Calculator](/calculators/step-up-sip-calculator)[PPF Calculator](/calculators/ppf-calculator)[GST Calculator](/calculators/gst-calculator)[Car Loan EMI Calculator](/calculators/car-loan-emi-calculator)
+
+[What is IPO?](/p/what-is-ipo)[IPO Subscription Status](/ipo/subscription)[IPO Allotment Status](/ipo/allotment)
+
+[Open IPOs](/ipo)[How to Apply for an IPO](/blog/how-to-invest-in-an-ipo-online)
+
+[Upcoming IPOs](/ipo/upcoming)[What is Grey Market Premium?](/p/what-is-grey-market)
+
+[Closed IPOs](/ipo/closed)[Mainboard IPOs](/ipo/mainboard)
+
+[IPO GMP](/ipo/gmp)[SME IPOs](/ipo/sme)
+
+[NFO](/nfo)[Pricing](/pricing)[Trust & Safety](/trust-and-safety)[Groww Digest](/digest)
+
+[Intraday](/stocks/intraday)[Blog](/blog)[Investor Relations](/investor-relations)[Invest in Gold](/gold)
+
+[Corporate Bonds](/bonds/ipo)[Media & Press](/press)[Gold Rates](/gold-rates)[Invest in Silver](/silver)
+
+[HUF Demat Account](/open-huf-demat-account)[Careers](/careers)[Silver Rates](/silver-rates)[Sitemap](/sitemap)
+
+[About Us](/about-us)[Help & Support](/help)[Glossary](/p)
+
+[NSE](https://www.nseindia.com/)[BSE](https://www.bseindia.com/)[MCX](https://www.mcxindia.com/)[Terms and Conditions](https://groww.in/terms-and-conditions/)[Policies and Procedures](https://groww.in/p/policies/)[Regulatory & Other Info](/regulatory-and-other-information)[Privacy Policy](https://groww.in/privacy-policy/)[Disclosure](https://groww.in/p/disclosure/)[SMART ODR](https://smartodr.in/)[Download Forms](/download-forms)[Information Security Practices](/p/security)[Investor Charter and Grievance](/investor-charters-and-grievance)[Bug Bounty](https://security.groww.in)
+
+[A](/mutual-funds/fund-list/a)[B](/mutual-funds/fund-list/b)[C](/mutual-funds/fund-list/c)[D](/mutual-funds/fund-list/d)[E](/mutual-funds/fund-list/e)[F](/mutual-funds/fund-list/f)[G](/mutual-funds/fund-list/g)[H](/mutual-funds/fund-list/h)[I](/mutual-funds/fund-list/i)[J](/mutual-funds/fund-list/j)[K](/mutual-funds/fund-list/k)[L](/mutual-funds/fund-list/l)[M](/mutual-funds/fund-list/m)[N](/mutual-funds/fund-list/n)[O](/mutual-funds/fund-list/o)[P](/mutual-funds/fund-list/p)[Q](/mutual-funds/fund-list/q)[R](/mutual-funds/fund-list/r)[S](/mutual-funds/fund-list/s)[T](/mutual-funds/fund-list/t)[U](/mutual-funds/fund-list/u)[V](/mutual-funds/fund-list/v)[W](/mutual-funds/fund-list/w)[X](/mutual-funds/fund-list/x)[Y](/mutual-funds/fund-list/y)[Z](/mutual-funds/fund-list/z)[Others](/mutual-funds/fund-list/others)
+
+[A](/stocks/stocks-list/a)[B](/stocks/stocks-list/b)[C](/stocks/stocks-list/c)[D](/stocks/stocks-list/d)[E](/stocks/stocks-list/e)[F](/stocks/stocks-list/f)[G](/stocks/stocks-list/g)[H](/stocks/stocks-list/h)[I](/stocks/stocks-list/i)[J](/stocks/stocks-list/j)[K](/stocks/stocks-list/k)[L](/stocks/stocks-list/l)[M](/stocks/stocks-list/m)[N](/stocks/stocks-list/n)[O](/stocks/stocks-list/o)[P](/stocks/stocks-list/p)[Q](/stocks/stocks-list/q)[R](/stocks/stocks-list/r)[S](/stocks/stocks-list/s)[T](/stocks/stocks-list/t)[U](/stocks/stocks-list/u)[V](/stocks/stocks-list/v)[W](/stocks/stocks-list/w)[X](/stocks/stocks-list/x)[Y](/stocks/stocks-list/y)[Z](/stocks/stocks-list/z)[Others](/stocks/stocks-list/others)

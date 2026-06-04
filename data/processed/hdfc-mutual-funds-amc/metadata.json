@@ -1,0 +1,20 @@
+{
+  "scheme_name": "HDFC Mutual Fund - Latest MF Schemes, NAV, Performance &amp; Returns 2026 - Groww",
+  "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+  "scraped_at": "2026-06-03T18:04:43.589606+00:00",
+  "success": true,
+  "cleaning_error": null,
+  "structured_data": {
+    "amc_name": "HDFC Mutual Fund",
+    "ceo": "Navneet Munot",
+    "cio": "Head – Equities: Chirag Setalvad, Head – Fixed Income: Shobhit Mehrotra",
+    "total_aum": "₹9,37,047.59Cr",
+    "incorporation_date": "1999-12-10",
+    "address": "HDFC House, 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "sponsor": "HDFC Ltd.",
+    "registrar": "Cams",
+    "rank": "#2 in India",
+    "email": "shareholders.relations@hdfcfund.com",
+    "website": "http://www.hdfcfund.com"
+  }
+}

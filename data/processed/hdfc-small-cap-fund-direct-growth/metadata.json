@@ -1,0 +1,25 @@
+{
+  "scheme_name": "HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+  "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+  "scraped_at": "2026-06-03T18:04:43.569958+00:00",
+  "success": true,
+  "cleaning_error": null,
+  "structured_data": {
+    "expense_ratio": "0.73%",
+    "exit_load": "1% if redeemed within 1 year",
+    "minimum_sip": "₹100",
+    "minimum_lumpsum": "₹100",
+    "risk_rating": "Very High Risk",
+    "benchmark": "BSE 250 SmallCap Total Return Index",
+    "aum": "₹9,37,048 Cr",
+    "nav": "₹152.06.",
+    "launch_date": "1999-12-10",
+    "amc_name": "HDFC Mutual Fund",
+    "amc_rank": "#2 in India",
+    "amc_incorporation_date": "1999-12-10",
+    "amc_email": "shareholders.relations@hdfcfund.com",
+    "amc_website": "http://www.hdfcfund.com",
+    "amc_address": "HDFC House, 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "amc_registrar": "Cams"
+  }
+}

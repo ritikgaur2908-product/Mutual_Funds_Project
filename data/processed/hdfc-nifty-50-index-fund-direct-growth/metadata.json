@@ -1,0 +1,25 @@
+{
+  "scheme_name": "HDFC NIFTY 50 Index Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+  "source_url": "https://groww.in/mutual-funds/hdfc-nifty-50-index-fund-direct-growth",
+  "scraped_at": "2026-06-03T18:04:43.584714+00:00",
+  "success": true,
+  "cleaning_error": null,
+  "structured_data": {
+    "expense_ratio": "0.26%",
+    "exit_load": "0",
+    "minimum_sip": "₹100",
+    "minimum_lumpsum": "₹100",
+    "risk_rating": "Very High Risk",
+    "benchmark": "NIFTY 50 Total Return Index",
+    "aum": "₹9,37,048 Cr",
+    "nav": "₹227.86.",
+    "launch_date": "1999-12-10",
+    "amc_name": "HDFC Mutual Fund",
+    "amc_rank": "#2 in India",
+    "amc_incorporation_date": "1999-12-10",
+    "amc_email": "shareholders.relations@hdfcfund.com",
+    "amc_website": "http://www.hdfcfund.com",
+    "amc_address": "HDFC House, 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020",
+    "amc_registrar": "Cams"
+  }
+}

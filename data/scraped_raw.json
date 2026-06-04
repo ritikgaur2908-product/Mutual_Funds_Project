@@ -1,0 +1,66 @@
+[
+  {
+    "scheme_name": "HDFC Silver ETF FoF Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+    "scraped_at": "2026-06-04T09:55:38.232811+00:00",
+    "success": true,
+    "html_length": 298187,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "scraped_at": "2026-06-04T09:55:38.753819+00:00",
+    "success": true,
+    "html_length": 405778,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "scraped_at": "2026-06-04T09:55:39.376570+00:00",
+    "success": true,
+    "html_length": 395272,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+    "scraped_at": "2026-06-04T09:55:40.088216+00:00",
+    "success": true,
+    "html_length": 417337,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Defence Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-defence-fund-direct-growth",
+    "scraped_at": "2026-06-04T09:55:40.910510+00:00",
+    "success": true,
+    "html_length": 316957,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+    "scraped_at": "2026-06-04T09:55:41.825243+00:00",
+    "success": true,
+    "html_length": 306572,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC NIFTY 50 Index Fund Direct Growth - NAV, Mutual Fund Performance &amp; Portfolio",
+    "source_url": "https://groww.in/mutual-funds/hdfc-nifty-50-index-fund-direct-growth",
+    "scraped_at": "2026-06-04T09:55:42.560418+00:00",
+    "success": true,
+    "html_length": 381598,
+    "error": null
+  },
+  {
+    "scheme_name": "HDFC Mutual Fund - Latest MF Schemes, NAV, Performance &amp; Returns 2026 - Groww",
+    "source_url": "https://groww.in/mutual-funds/amc/hdfc-mutual-funds",
+    "scraped_at": "2026-06-04T09:55:43.160954+00:00",
+    "success": true,
+    "html_length": 251851,
+    "error": null
+  }
+]

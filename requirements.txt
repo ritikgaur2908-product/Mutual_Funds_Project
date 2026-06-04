@@ -1,0 +1,41 @@
+# Web Scraping
+httpx==0.27.0
+playwright==1.44.0
+beautifulsoup4==4.12.3
+lxml==5.2.2
+html2text==2024.2.26
+
+# Data Chunking & RAG Orchestration
+langchain==0.2.6
+langchain-community==0.2.6
+
+# Embeddings
+google-generativeai==0.7.2
+groq==0.9.0
+sentence-transformers==3.0.1
+
+# Vector Store
+chromadb==0.5.3
+
+# Keyword Search (BM25)
+rank-bm25==0.2.2
+
+# Optional: Reranking
+# FlagEmbedding==1.2.10
+
+# Backend API
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-dotenv==1.0.1
+pydantic==2.7.4
+
+# Scheduler
+APScheduler==3.10.4
+
+# Testing
+pytest==8.2.2
+pytest-asyncio==0.23.7
+httpx==0.27.0
+
+# Utilities
+markdownify==0.12.1
